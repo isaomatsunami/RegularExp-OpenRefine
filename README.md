@@ -1,2 +1,3 @@
 # RegularExp-OpenRefine
-How to cleanse data
+
+データ洗浄の練習用データ
