@@ -5,8 +5,8 @@
 このレポジトリにあるtranslation-default.jsonファイルをダウンロードし、OpenRefineの既存ファイルを上書きします。
 
 * Windowsの場合
-    openrefineのフォルダの、webapp/modules/core/langsの中に入れ、ファイルを上書きする。
+    ** openrefineのフォルダの、webapp/modules/core/langsの中に入れ、ファイルを上書きする。
 
 * Macの場合
-    アプリケーションにいれたOpenRefineのアイコンを右クリックし、「パッケージの内容を表示」を選び、Contents/Resource/webapp/modules/core/langsの中に入れ、ファイルを上書きする。
-    Macの場合、自動でブラウザが立ち上がらないので、ブラウザから[http://127.0.0.1:3333](http://127.0.0.1:3333)にアクセスする。（ブックマークしておきましょう）
+    ** アプリケーションにいれたOpenRefineのアイコンを右クリックし、「パッケージの内容を表示」を選び、Contents/Resource/webapp/modules/core/langsの中に入れ、ファイルを上書きする。
+    ** Macの場合、自動でブラウザが立ち上がらないので、ブラウザから[http://127.0.0.1:3333](http://127.0.0.1:3333)にアクセスする。（ブックマークしておきましょう）
